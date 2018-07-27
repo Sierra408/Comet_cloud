@@ -1,0 +1,65 @@
+body{
+  background:green
+
+
+}
+h2{
+  text-align: center;
+  font-family: 'Armata';
+
+}
+h6{
+  color:DarkRed;
+  font-size: 50px;
+  text-align: center;
+  margin-top:28%
+}
+h1{
+  font-family: 'Amaranth';
+  color: white;
+  font-size: 80px;
+  text-align: center;
+}
+.cloud{
+  display; block;
+  margin-left:25%;
+  position:absolute;
+  top:180px;
+}
+.charlie{
+  display; block;
+  margin-left: 70%;
+  position:absolute;
+  top:190px;
+
+}
+
+.Home{
+  display; block;
+  margin-top: 100%
+}
+
+.three{
+  display; block;
+  margin-left: 70%;
+  position: absolute;
+  bottom:-200px;
+  left:0px;
+}
+
+.group{
+   display; block;
+  margin-left: 30%;
+  position: absolute;
+  left:0px;
+  top:450px;
+}
+
+.guygirl{
+  display; block;
+  margin-left:5%;
+
+}
+h6{
+  font-family: 'Armata';
+}
